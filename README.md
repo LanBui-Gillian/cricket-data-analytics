@@ -26,18 +26,22 @@ The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I
 
 # Screenshots of the Dashboard:
 
-![power_hitters_and_openers](https://user-images.githubusercontent.com/81465377/211144386-48070a65-7e8b-4370-af44-121b878b554b.jpg)
+![openers](https://github.com/user-attachments/assets/687caa85-2205-4542-afab-24e16b3fbe63)
 
-![hover_effect](https://user-images.githubusercontent.com/81465377/211144410-6e11c0cd-ab86-4357-b272-9019f5efa445.jpg)
+![openers_tooltip](https://github.com/user-attachments/assets/4bfb6b1d-adf8-4c1b-a503-7f9b482b6ae0)
 
-![individual_stats](https://user-images.githubusercontent.com/81465377/211144427-bfb260dc-3586-4db2-879c-6d84f4e8ca2d.jpg)
+![anchors](https://github.com/user-attachments/assets/3bae7f92-50bc-4ed0-8c50-9049269e85c7)
 
-![anchors](https://user-images.githubusercontent.com/81465377/211144441-423d3ba3-76ab-49bf-b0d7-9b107ca2086f.jpg)
+![finishers](https://github.com/user-attachments/assets/f155ff50-4fd0-47e8-af32-22ec3e870af2)
 
-![finishers](https://user-images.githubusercontent.com/81465377/211144456-6eb2581f-4574-4961-b693-4c8ff0dd7b19.jpg)
+![allRounders](https://github.com/user-attachments/assets/ea0cc312-cef0-4af6-a4d5-ba03042f7127)
 
-![all_rounders](https://user-images.githubusercontent.com/81465377/211144466-43003158-fe3e-41c0-b02a-ee4db2c53379.jpg)
+![specialistFastBowlers](https://github.com/user-attachments/assets/221b3700-9105-499b-8587-8244b87f1df4)
 
-![fast_bowlers](https://user-images.githubusercontent.com/81465377/211144473-03ca6186-b8e8-419f-87a1-786f6a2d62a6.jpg)
+![final11](https://github.com/user-attachments/assets/5b403c7c-d74d-42ac-8098-1e306c29ee82)
 
-![pick_final_11](https://user-images.githubusercontent.com/81465377/211144486-4b48e1fc-fab3-4bb0-b660-7b4da5be627d.jpg)
+![tooltip1](https://github.com/user-attachments/assets/6478e6aa-c4a5-407a-9be8-25ef1ca8baad)
+
+![tooltip2](https://github.com/user-attachments/assets/53b501e9-0493-43e8-bd1b-16c17b456d49)
+
+![tooltip3](https://github.com/user-attachments/assets/3b396df5-823e-41fc-9963-9b056de55b42)
